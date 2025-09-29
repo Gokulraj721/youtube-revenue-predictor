@@ -25,6 +25,7 @@ Estimate YouTube ad revenue using video metrics and a trained ML model.
 ```bash
 streamlit run scripts/app.py
 
-👤 Author
+👤 Author  
+**Gokul Raj** — Data Analyst & Dashboard Architect  
+[LinkedIn](https://www.linkedin.com/in/gokulraj721) • [GitHub](https://github.com/Gokulraj721)
 
-Gokul Raj — Data Analyst & Dashboard Architect LinkedIn • GitHub
